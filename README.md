@@ -2,6 +2,10 @@
 
 Go package for working with hashes in Who's On First documents
 
+## Important
+
+This package is deprecated and will no longer be updated.
+
 ## Install
 
 You will need to have both `Go` (specifically [version 1.12](https://golang.org/dl/) or higher because we're using [Go modules](https://github.com/golang/go/wiki/Modules)) and the `make` programs installed on your computer. Assuming you do just type:
